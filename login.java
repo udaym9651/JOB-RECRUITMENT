@@ -8,3 +8,6 @@ void login(String login, String password) {
     System.out.println("Login Failed! Please try again.");
   }
 }
+void print(){
+System.out.println("enter the resume of applicant ");
+}
